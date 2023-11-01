@@ -1,6 +1,8 @@
 public class Lesson {
   public static void main(String [] args) {
     System.out.println("u good bro");
+    System.out.println("bet");
     System.out.println("i am good");
+
   }
 }
